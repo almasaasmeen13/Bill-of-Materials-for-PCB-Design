@@ -7,7 +7,7 @@ To prepare the Bill of Material for the given circuit.
 
 	Eagle software
 
-# Procedure
+# Procedure:
 
 Collect all relevant information about the product for which you are preparing the BOM. </br>
 Break down the product into its individual components, sub-assemblies, and raw materials. </br>
