@@ -1,4 +1,4 @@
-<img width="562" height="631" alt="image" src="https://github.com/user-attachments/assets/a5a43109-c3e1-4bff-8416-d9602e2bd386" /># Bill-of-Materials-for-PCB-Design
+# Bill-of-Materials-for-PCB-Design
 # Aim
 
 To prepare the Bill of Material for the given circuit.
@@ -58,16 +58,10 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Diagnostics — Expected voltages, signal values </br>
 
 # Circuit Diagram:
-(https://github.com/user-attachments/assets/d5dfa258-3866-457c-ba94-97174d830c58)
-(https://github.com/user-attachments/assets/c607916c-f95a-42c9-88c2-2feb21a93cd2)
 
+![WhatsApp Image 2025-08-21 at 14 29 34_9b2ac4fe](https://github.com/user-attachments/assets/3cd88857-3d6c-4b11-a91f-47e0a7cdf6e1)
 
-
-
-
-
-
-
+![WhatsApp Image 2025-08-21 at 14 29 35_98c97d85](https://github.com/user-attachments/assets/b896a3be-ad61-4f2a-9538-f826323df1f1)
 
 # Output
 
